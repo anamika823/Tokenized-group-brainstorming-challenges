@@ -8,6 +8,8 @@ BrainstormingToken (BRT) is a decentralized ERC-20 token built on the Ethereum b
 
 ## Contract Address
 0xdb476f0611230ae4e28ff42c235aa012ac461f73
+![image](https://github.com/user-attachments/assets/5cc8c01d-ff51-419a-a4d1-102b9235484f)
+
 
 ## Project Vision
 The vision of BrainstormingToken is to create a tokenized ecosystem that promotes active participation in creative and problem-solving processes. By rewarding users for their valuable contributions, we aim to foster an environment of collaboration and innovation. Whether in education, corporate settings, or community-driven projects, BRT will empower participants to engage more effectively and be rewarded for their input.
